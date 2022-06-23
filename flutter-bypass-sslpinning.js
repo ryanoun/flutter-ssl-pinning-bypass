@@ -1,6 +1,6 @@
 setTimeout(function () {
 	// pattern bytes
-	var pattern = "ff 03 05 d1 fd 7b 0f a9 bc de 05 94 08 0a 80 52 48"
+	var pattern = "ff 03 05 d1 fd 7b 0f a9 fa 67 10 a9 f8 5f 11 a9 f6 57 12 a9 f4 4f 13 a9 08 0a 80 52 48 00 00 39 16 54 40 f9 56 07 00 b4 c8 02 40 f9"
 	// library name
 	var module = "libflutter.so"
 	// define your arm version
